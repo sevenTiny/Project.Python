@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode
 
 # C extensions
 *.so
+*.xlsx
 
 # Distribution / packaging
 .Python
