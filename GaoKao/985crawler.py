@@ -168,7 +168,7 @@ def analysis_score_line(province_id):
         result.append(obj)
 
     df = pd.DataFrame(result).sort_values(by='平均超线', ascending=False)
-    df.to_excel('高校历年_' + province_id+'.xlsx', index=False)
+    df.to_excel('../高校历年_' + province_id+'.xlsx', index=False)
 
 
 try:
