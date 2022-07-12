@@ -1,4 +1,4 @@
-from OfficeAccount.AuthBase import AuthBase
+from office_account.AuthBase import AuthBase
 import requests
 import json
 

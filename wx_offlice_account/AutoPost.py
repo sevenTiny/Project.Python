@@ -1,4 +1,4 @@
-from OfficeAccount.MaterialMgmt import MaterialMgmt
+from office_account.MaterialMgmt import MaterialMgmt
 from Crawler.LssdjtCrawler import LssdjtCrawler
 from Crawler.BaiduCalendar import BaiduCalendar
 import datetime
